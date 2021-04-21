@@ -1,2 +1,2 @@
 # query-selector
-querySelector
+querySelector readme file
